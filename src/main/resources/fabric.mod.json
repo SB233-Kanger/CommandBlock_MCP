@@ -7,7 +7,7 @@
 	"authors": [
 		"XZH Studio"
 	],
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/commandblock_mcp/icon.png",
 	"environment": "*",
 	"entrypoints": {
