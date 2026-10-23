@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "commandblock_mcp",
+	"version": "${version}",
+	"name": "CommandBlock_MCP",
+	"description": "Local authenticated MCP tools for command blocks on integrated and dedicated Fabric servers.",
+	"authors": [
+		"XZH Studio"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/commandblock_mcp/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"xzh.studio.commblock.mcp.CommandBlock_MCP"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
