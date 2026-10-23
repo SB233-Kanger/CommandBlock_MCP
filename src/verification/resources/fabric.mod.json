@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"cbmcp_verification","version":"1.0.0","name":"CommandBlock MCP verification (development only)","environment":"*","entrypoints":{"main":["xzh.studio.commblock.mcp.WorldVerification"],"client":["xzh.studio.commblock.mcp.ClientVerification"]},"mixins":["cbmcp-verification.mixins.json"],"depends":{"commandblock_mcp":"*"}}

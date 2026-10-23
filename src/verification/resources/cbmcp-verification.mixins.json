@@ -1,0 +1,1 @@
+{"required":true,"package":"xzh.studio.commblock.mcp.verification.mixin","compatibilityLevel":"JAVA_25","mixins":["WriteFailureMixin"],"injectors":{"defaultRequire":1}}
